@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "id": "691e0dec374445d095858c0fc118709c",
+    "name": "Untitled design"
+  },
+  "tokens": {},
+  "content": {},
+  "platforms": {
+    "web": {
+      "platform": "web",
+      "viewport": {
+        "w": 1440,
+        "h": 1024
+      },
+      "seed": null,
+      "root": {
+        "id": "root",
+        "type": "FRAME",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 1024
+        },
+        "children": []
+      }
+    }
+  }
+}

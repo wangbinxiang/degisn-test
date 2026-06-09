@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "id": "a28b1e443b904e438aa4a87e35334df2",
+    "name": "Untitled design"
+  },
+  "tokens": {},
+  "content": {},
+  "platforms": {
+    "web": {
+      "platform": "web",
+      "viewport": {
+        "w": 1440,
+        "h": 1024
+      },
+      "seedImage": ".design/a28b1e443b904e438aa4a87e35334df2/seed.png",
+      "root": {
+        "id": "root",
+        "type": "FRAME",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 1024
+        },
+        "children": []
+      }
+    }
+  }
+}

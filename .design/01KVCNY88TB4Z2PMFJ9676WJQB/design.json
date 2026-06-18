@@ -493,8 +493,8 @@
                 "id": "n6",
                 "type": "GROUP",
                 "bbox": {
-                  "x": 63.23046875,
-                  "y": 15.05859375,
+                  "x": 63.1015625,
+                  "y": 15.1875,
                   "w": 460,
                   "h": 28
                 },
@@ -583,28 +583,10 @@
                     "children": []
                   },
                   {
-                    "id": "n7",
-                    "type": "TEXT",
-                    "bbox": {
-                      "x": 460,
-                      "y": 15,
-                      "w": 50,
-                      "h": 28
-                    },
-                    "role": "link",
-                    "tokenRefs": {
-                      "fill": "color.1",
-                      "color": "color.3",
-                      "fontSize": "fontSize.2"
-                    },
-                    "contentRef": "c3",
-                    "children": []
-                  },
-                  {
                     "id": "n12",
                     "type": "TEXT",
                     "bbox": {
-                      "x": 533,
+                      "x": 460,
                       "y": 15,
                       "w": 68,
                       "h": 28
@@ -616,6 +598,24 @@
                       "fontSize": "fontSize.2"
                     },
                     "contentRef": "c8",
+                    "children": []
+                  },
+                  {
+                    "id": "n7",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 551,
+                      "y": 15,
+                      "w": 50,
+                      "h": 28
+                    },
+                    "role": "link",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.2"
+                    },
+                    "contentRef": "c3",
                     "children": []
                   }
                 ]

@@ -1,0 +1,1990 @@
+{
+  "meta": {
+    "id": "01KVC2YN53FMHSRX10W3R0QSNE",
+    "name": "Untitled design"
+  },
+  "tokens": {
+    "color": {
+      "1": {
+        "$type": "color",
+        "$value": "#1a1a2e"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#555570"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#888899"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#22c55e"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#4f46e5"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "fontSize": {
+      "1": {
+        "$type": "dimension",
+        "$value": {
+          "value": 11,
+          "unit": "px"
+        }
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": {
+          "value": 12,
+          "unit": "px"
+        }
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": {
+          "value": 15,
+          "unit": "px"
+        }
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": {
+          "value": 18,
+          "unit": "px"
+        }
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": {
+          "value": 13,
+          "unit": "px"
+        }
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": {
+          "value": 14,
+          "unit": "px"
+        }
+      },
+      "7": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        }
+      }
+    },
+    "fontWeight": {
+      "1": {
+        "$type": "number",
+        "$value": 700
+      },
+      "2": {
+        "$type": "number",
+        "$value": 600
+      },
+      "3": {
+        "$type": "number",
+        "$value": 500
+      }
+    }
+  },
+  "content": {
+    "c1": {
+      "kind": "image",
+      "alt": "Aurora logo mark"
+    },
+    "c2": {
+      "kind": "text",
+      "value": "AURORA"
+    },
+    "c3": {
+      "kind": "text",
+      "value": "Product ∨"
+    },
+    "c4": {
+      "kind": "text",
+      "value": "Solutions ∨"
+    },
+    "c5": {
+      "kind": "text",
+      "value": "Pricing"
+    },
+    "c6": {
+      "kind": "text",
+      "value": "Resources ∨"
+    },
+    "c7": {
+      "kind": "text",
+      "value": "Company ∨"
+    },
+    "c8": {
+      "kind": "text",
+      "value": "Log in"
+    },
+    "c9": {
+      "kind": "text",
+      "value": "Get started"
+    },
+    "c10": {
+      "kind": "text",
+      "value": "AI-POWERED ANALYTICS"
+    },
+    "c11": {
+      "kind": "text",
+      "value": "Turn data into decisions, faster."
+    },
+    "c12": {
+      "kind": "text",
+      "value": "Aurora helps teams unify their data, uncover insights, and drive growth with confidence."
+    },
+    "c13": {
+      "kind": "text",
+      "value": "Get started free →"
+    },
+    "c14": {
+      "kind": "text",
+      "value": "▶  Watch demo"
+    },
+    "c15": {
+      "kind": "image",
+      "alt": "Database icon"
+    },
+    "c16": {
+      "kind": "text",
+      "value": "Connect all your data"
+    },
+    "c17": {
+      "kind": "image",
+      "alt": "AI sparkle icon"
+    },
+    "c18": {
+      "kind": "text",
+      "value": "AI-powered insights"
+    },
+    "c19": {
+      "kind": "image",
+      "alt": "Lock icon"
+    },
+    "c20": {
+      "kind": "text",
+      "value": "Enterprise-grade security"
+    },
+    "c21": {
+      "kind": "image",
+      "alt": "Aurora sidebar logo"
+    },
+    "c22": {
+      "kind": "image",
+      "alt": "Home icon"
+    },
+    "c23": {
+      "kind": "image",
+      "alt": "Chart icon"
+    },
+    "c24": {
+      "kind": "image",
+      "alt": "Database icon"
+    },
+    "c25": {
+      "kind": "image",
+      "alt": "Users icon"
+    },
+    "c26": {
+      "kind": "image",
+      "alt": "Settings icon"
+    },
+    "c27": {
+      "kind": "image",
+      "alt": "Help icon"
+    },
+    "c28": {
+      "kind": "image",
+      "alt": "User avatar"
+    },
+    "c29": {
+      "kind": "text",
+      "value": "Overview"
+    },
+    "c30": {
+      "kind": "text",
+      "value": "May 1 – May 31, 2024 ∨"
+    },
+    "c31": {
+      "kind": "text",
+      "value": "⚙ Filters"
+    },
+    "c32": {
+      "kind": "text",
+      "value": "Total Revenue"
+    },
+    "c33": {
+      "kind": "text",
+      "value": "$4.26M"
+    },
+    "c34": {
+      "kind": "text",
+      "value": "↑ 12.5%"
+    },
+    "c35": {
+      "kind": "image",
+      "alt": "Revenue sparkline"
+    },
+    "c36": {
+      "kind": "text",
+      "value": "New Customers"
+    },
+    "c37": {
+      "kind": "text",
+      "value": "1,842"
+    },
+    "c38": {
+      "kind": "text",
+      "value": "↑ 18.3%"
+    },
+    "c39": {
+      "kind": "image",
+      "alt": "Customers sparkline"
+    },
+    "c40": {
+      "kind": "text",
+      "value": "Active Users"
+    },
+    "c41": {
+      "kind": "text",
+      "value": "28,671"
+    },
+    "c42": {
+      "kind": "text",
+      "value": "↑ 8.1%"
+    },
+    "c43": {
+      "kind": "image",
+      "alt": "Active users sparkline"
+    },
+    "c44": {
+      "kind": "text",
+      "value": "Conversion Rate"
+    },
+    "c45": {
+      "kind": "text",
+      "value": "3.56%"
+    },
+    "c46": {
+      "kind": "text",
+      "value": "↑ 14.2%"
+    },
+    "c47": {
+      "kind": "image",
+      "alt": "Conversion sparkline"
+    },
+    "c48": {
+      "kind": "text",
+      "value": "Revenue Over Time"
+    },
+    "c49": {
+      "kind": "image",
+      "alt": "Revenue over time area chart May 1–31"
+    },
+    "c50": {
+      "kind": "text",
+      "value": "May 16, 2024"
+    },
+    "c51": {
+      "kind": "text",
+      "value": "$1.23M"
+    },
+    "c52": {
+      "kind": "text",
+      "value": "Top Channels"
+    },
+    "c53": {
+      "kind": "image",
+      "alt": "Donut chart total $4.26M"
+    },
+    "c54": {
+      "kind": "text",
+      "value": "$4.26M"
+    },
+    "c55": {
+      "kind": "text",
+      "value": "Total"
+    },
+    "c56": {
+      "kind": "text",
+      "value": "● Organic Search   $1.68M   39%"
+    },
+    "c57": {
+      "kind": "text",
+      "value": "● Paid Search        $1.24M   29%"
+    },
+    "c58": {
+      "kind": "text",
+      "value": "● Social Media       $892K     21%"
+    },
+    "c59": {
+      "kind": "text",
+      "value": "● Email                  $446K     11%"
+    },
+    "c60": {
+      "kind": "image",
+      "alt": "AI sparkle icon"
+    },
+    "c61": {
+      "kind": "text",
+      "value": "AI Insight"
+    },
+    "c62": {
+      "kind": "text",
+      "value": "Revenue is up 12.5% compared to last month, driven by growth in Organic Search and Social Media."
+    },
+    "c63": {
+      "kind": "text",
+      "value": "View full report →"
+    },
+    "c64": {
+      "kind": "text",
+      "value": "★ ★ ★ ★ ★"
+    },
+    "c65": {
+      "kind": "text",
+      "value": "Trusted by 10,000+ teams"
+    },
+    "c66": {
+      "kind": "text",
+      "value": "to drive smarter decisions"
+    },
+    "c67": {
+      "kind": "image",
+      "alt": "Notion logo"
+    },
+    "c68": {
+      "kind": "image",
+      "alt": "Webflow logo"
+    },
+    "c69": {
+      "kind": "image",
+      "alt": "Miro logo"
+    },
+    "c70": {
+      "kind": "image",
+      "alt": "Zapier logo"
+    },
+    "c71": {
+      "kind": "image",
+      "alt": "Loom logo"
+    },
+    "c72": {
+      "kind": "image",
+      "alt": "Airtable logo"
+    }
+  },
+  "platforms": {
+    "web": {
+      "platform": "web",
+      "viewport": {
+        "w": 1536,
+        "h": 1024
+      },
+      "seedImage": ".design/01KVC2YN53FMHSRX10W3R0QSNE/seed.png",
+      "root": {
+        "id": "n1",
+        "type": "FRAME",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "w": 1536,
+          "h": 1024
+        },
+        "style": {
+          "fill": "#F0F0F8"
+        },
+        "children": [
+          {
+            "id": "n2",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 0,
+              "w": 1536,
+              "h": 72
+            },
+            "children": [
+              {
+                "id": "n3",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 20,
+                  "w": 140,
+                  "h": 32
+                },
+                "children": [
+                  {
+                    "id": "n4",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 40,
+                      "y": 20,
+                      "w": 36,
+                      "h": 32
+                    },
+                    "contentRef": "c1",
+                    "children": []
+                  },
+                  {
+                    "id": "n5",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 84,
+                      "y": 26,
+                      "w": 96,
+                      "h": 22
+                    },
+                    "style": {
+                      "letterSpacing": 2
+                    },
+                    "contentRef": "c2",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.4",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  }
+                ],
+                "role": "container"
+              },
+              {
+                "id": "n6",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 450,
+                  "y": 24,
+                  "w": 460,
+                  "h": 24
+                },
+                "children": [
+                  {
+                    "id": "n7",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 450,
+                      "y": 24,
+                      "w": 90,
+                      "h": 24
+                    },
+                    "contentRef": "c3",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  },
+                  {
+                    "id": "n8",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 570,
+                      "y": 24,
+                      "w": 100,
+                      "h": 24
+                    },
+                    "contentRef": "c4",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  },
+                  {
+                    "id": "n9",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 698,
+                      "y": 24,
+                      "w": 60,
+                      "h": 24
+                    },
+                    "contentRef": "c5",
+                    "children": [],
+                    "role": "link",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  },
+                  {
+                    "id": "n10",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 782,
+                      "y": 24,
+                      "w": 106,
+                      "h": 24
+                    },
+                    "contentRef": "c6",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  },
+                  {
+                    "id": "n11",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 910,
+                      "y": 24,
+                      "w": 100,
+                      "h": 24
+                    },
+                    "contentRef": "c7",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  }
+                ],
+                "role": "nav"
+              },
+              {
+                "id": "n12",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 1100,
+                  "y": 20,
+                  "w": 396,
+                  "h": 32
+                },
+                "children": [
+                  {
+                    "id": "n13",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1100,
+                      "y": 24,
+                      "w": 60,
+                      "h": 24
+                    },
+                    "contentRef": "c8",
+                    "children": [],
+                    "role": "link",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.3"
+                    }
+                  },
+                  {
+                    "id": "n14",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 1196,
+                      "y": 16,
+                      "w": 140,
+                      "h": 40
+                    },
+                    "children": [
+                      {
+                        "id": "n15",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1218,
+                          "y": 28,
+                          "w": 96,
+                          "h": 18
+                        },
+                        "contentRef": "c9",
+                        "children": [],
+                        "role": "button",
+                        "tokenRefs": {
+                          "color": "color.6",
+                          "fontSize": "fontSize.3",
+                          "fontWeight": "fontWeight.2"
+                        }
+                      }
+                    ],
+                    "role": "button"
+                  }
+                ],
+                "role": "container"
+              }
+            ],
+            "role": "nav"
+          },
+          {
+            "id": "n16",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 72,
+              "w": 1536,
+              "h": 640
+            },
+            "style": {
+              "fill": "linear-gradient(135deg, #F0F0F8 0%, #E4E4F8 100%)"
+            },
+            "children": [
+              {
+                "id": "n17",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 40,
+                  "y": 110,
+                  "w": 560,
+                  "h": 500
+                },
+                "style": {
+                  "fill": "transparent"
+                },
+                "children": [
+                  {
+                    "id": "n18",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 40,
+                      "y": 110,
+                      "w": 220,
+                      "h": 32
+                    },
+                    "children": [
+                      {
+                        "id": "n19",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 70,
+                          "y": 117,
+                          "w": 180,
+                          "h": 18
+                        },
+                        "style": {
+                          "letterSpacing": 1
+                        },
+                        "contentRef": "c10",
+                        "children": [],
+                        "role": "text",
+                        "tokenRefs": {
+                          "color": "color.5",
+                          "fontSize": "fontSize.2",
+                          "fontWeight": "fontWeight.2"
+                        }
+                      }
+                    ],
+                    "role": "container"
+                  },
+                  {
+                    "id": "n20",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 158,
+                      "w": 520,
+                      "h": 180
+                    },
+                    "style": {
+                      "fontSize": 56,
+                      "fontWeight": 800,
+                      "lineHeight": 1.1
+                    },
+                    "contentRef": "c11",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "color": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n21",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 358,
+                      "w": 440,
+                      "h": 60
+                    },
+                    "style": {
+                      "lineHeight": 1.6
+                    },
+                    "contentRef": "c12",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.2",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n22",
+                    "type": "GROUP",
+                    "bbox": {
+                      "x": 40,
+                      "y": 440,
+                      "w": 380,
+                      "h": 52
+                    },
+                    "children": [
+                      {
+                        "id": "n23",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 40,
+                          "y": 440,
+                          "w": 192,
+                          "h": 52
+                        },
+                        "children": [
+                          {
+                            "id": "n24",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 60,
+                              "y": 455,
+                              "w": 152,
+                              "h": 22
+                            },
+                            "contentRef": "c13",
+                            "children": [],
+                            "role": "button",
+                            "tokenRefs": {
+                              "color": "color.6",
+                              "fontSize": "fontSize.7",
+                              "fontWeight": "fontWeight.1"
+                            }
+                          }
+                        ],
+                        "role": "button"
+                      },
+                      {
+                        "id": "n25",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 252,
+                          "y": 440,
+                          "w": 168,
+                          "h": 52
+                        },
+                        "children": [
+                          {
+                            "id": "n26",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 278,
+                              "y": 455,
+                              "w": 118,
+                              "h": 22
+                            },
+                            "contentRef": "c14",
+                            "children": [],
+                            "role": "button",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontSize": "fontSize.7",
+                              "fontWeight": "fontWeight.2"
+                            }
+                          }
+                        ],
+                        "role": "button"
+                      }
+                    ],
+                    "role": "container"
+                  },
+                  {
+                    "id": "n27",
+                    "type": "GROUP",
+                    "bbox": {
+                      "x": 40,
+                      "y": 528,
+                      "w": 490,
+                      "h": 54
+                    },
+                    "children": [
+                      {
+                        "id": "n28",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 40,
+                          "y": 532,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "contentRef": "c15",
+                        "children": []
+                      },
+                      {
+                        "id": "n29",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 70,
+                          "y": 528,
+                          "w": 110,
+                          "h": 40
+                        },
+                        "contentRef": "c16",
+                        "children": [],
+                        "role": "listitem",
+                        "tokenRefs": {
+                          "color": "color.2",
+                          "fontSize": "fontSize.5",
+                          "fontWeight": "fontWeight.3"
+                        }
+                      },
+                      {
+                        "id": "n30",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 210,
+                          "y": 532,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "contentRef": "c17",
+                        "children": []
+                      },
+                      {
+                        "id": "n31",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 240,
+                          "y": 528,
+                          "w": 110,
+                          "h": 40
+                        },
+                        "contentRef": "c18",
+                        "children": [],
+                        "role": "listitem",
+                        "tokenRefs": {
+                          "color": "color.2",
+                          "fontSize": "fontSize.5",
+                          "fontWeight": "fontWeight.3"
+                        }
+                      },
+                      {
+                        "id": "n32",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 376,
+                          "y": 532,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "contentRef": "c19",
+                        "children": []
+                      },
+                      {
+                        "id": "n33",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 406,
+                          "y": 528,
+                          "w": 124,
+                          "h": 40
+                        },
+                        "contentRef": "c20",
+                        "children": [],
+                        "role": "listitem",
+                        "tokenRefs": {
+                          "color": "color.2",
+                          "fontSize": "fontSize.5",
+                          "fontWeight": "fontWeight.3"
+                        }
+                      }
+                    ],
+                    "role": "list"
+                  }
+                ],
+                "role": "container"
+              },
+              {
+                "id": "n34",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 608,
+                  "y": 140,
+                  "w": 896,
+                  "h": 560
+                },
+                "children": [
+                  {
+                    "id": "n35",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 608,
+                      "y": 140,
+                      "w": 64,
+                      "h": 560
+                    },
+                    "children": [
+                      {
+                        "id": "n36",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 622,
+                          "y": 158,
+                          "w": 32,
+                          "h": 32
+                        },
+                        "contentRef": "c21",
+                        "children": []
+                      },
+                      {
+                        "id": "n37",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 616,
+                          "y": 208,
+                          "w": 48,
+                          "h": 40
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "n38",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 218,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c22",
+                        "children": []
+                      },
+                      {
+                        "id": "n39",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 266,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c23",
+                        "children": []
+                      },
+                      {
+                        "id": "n40",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 316,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c24",
+                        "children": []
+                      },
+                      {
+                        "id": "n41",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 366,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c25",
+                        "children": []
+                      },
+                      {
+                        "id": "n42",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 416,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c26",
+                        "children": []
+                      },
+                      {
+                        "id": "n43",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 628,
+                          "y": 466,
+                          "w": 22,
+                          "h": 22
+                        },
+                        "contentRef": "c27",
+                        "children": []
+                      },
+                      {
+                        "id": "n44",
+                        "type": "IMAGE",
+                        "bbox": {
+                          "x": 620,
+                          "y": 650,
+                          "w": 36,
+                          "h": 36
+                        },
+                        "contentRef": "c28",
+                        "children": []
+                      }
+                    ],
+                    "role": "nav"
+                  },
+                  {
+                    "id": "n45",
+                    "type": "FRAME",
+                    "bbox": {
+                      "x": 672,
+                      "y": 140,
+                      "w": 832,
+                      "h": 560
+                    },
+                    "children": [
+                      {
+                        "id": "n46",
+                        "type": "GROUP",
+                        "bbox": {
+                          "x": 688,
+                          "y": 158,
+                          "w": 800,
+                          "h": 36
+                        },
+                        "children": [
+                          {
+                            "id": "n47",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 688,
+                              "y": 162,
+                              "w": 120,
+                              "h": 28
+                            },
+                            "style": {
+                              "fontSize": 20
+                            },
+                            "contentRef": "c29",
+                            "children": [],
+                            "role": "heading",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontWeight": "fontWeight.1"
+                            }
+                          },
+                          {
+                            "id": "n48",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 1090,
+                              "y": 160,
+                              "w": 160,
+                              "h": 32
+                            },
+                            "children": [],
+                            "role": "button"
+                          },
+                          {
+                            "id": "n49",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 1100,
+                              "y": 166,
+                              "w": 140,
+                              "h": 20
+                            },
+                            "contentRef": "c30",
+                            "children": [],
+                            "role": "button",
+                            "tokenRefs": {
+                              "color": "color.2",
+                              "fontSize": "fontSize.2"
+                            }
+                          },
+                          {
+                            "id": "n50",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 1262,
+                              "y": 160,
+                              "w": 88,
+                              "h": 32
+                            },
+                            "children": [],
+                            "role": "button"
+                          },
+                          {
+                            "id": "n51",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 1274,
+                              "y": 166,
+                              "w": 64,
+                              "h": 20
+                            },
+                            "contentRef": "c31",
+                            "children": [],
+                            "role": "button",
+                            "tokenRefs": {
+                              "color": "color.2",
+                              "fontSize": "fontSize.2"
+                            }
+                          }
+                        ],
+                        "role": "container"
+                      },
+                      {
+                        "id": "n52",
+                        "type": "GROUP",
+                        "bbox": {
+                          "x": 688,
+                          "y": 206,
+                          "w": 800,
+                          "h": 110
+                        },
+                        "children": [
+                          {
+                            "id": "n53",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 688,
+                              "y": 206,
+                              "w": 184,
+                              "h": 110
+                            },
+                            "children": [
+                              {
+                                "id": "n54",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 700,
+                                  "y": 218,
+                                  "w": 100,
+                                  "h": 16
+                                },
+                                "contentRef": "c32",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.3",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n55",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 700,
+                                  "y": 238,
+                                  "w": 100,
+                                  "h": 24
+                                },
+                                "contentRef": "c33",
+                                "children": [],
+                                "role": "heading",
+                                "tokenRefs": {
+                                  "color": "color.1",
+                                  "fontSize": "fontSize.4",
+                                  "fontWeight": "fontWeight.1"
+                                }
+                              },
+                              {
+                                "id": "n56",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 806,
+                                  "y": 240,
+                                  "w": 54,
+                                  "h": 18
+                                },
+                                "contentRef": "c34",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.4",
+                                  "fontSize": "fontSize.2",
+                                  "fontWeight": "fontWeight.2"
+                                }
+                              },
+                              {
+                                "id": "n57",
+                                "type": "IMAGE",
+                                "bbox": {
+                                  "x": 700,
+                                  "y": 272,
+                                  "w": 160,
+                                  "h": 34
+                                },
+                                "contentRef": "c35",
+                                "children": []
+                              }
+                            ],
+                            "role": "card"
+                          },
+                          {
+                            "id": "n58",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 882,
+                              "y": 206,
+                              "w": 184,
+                              "h": 110
+                            },
+                            "children": [
+                              {
+                                "id": "n59",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 894,
+                                  "y": 218,
+                                  "w": 110,
+                                  "h": 16
+                                },
+                                "contentRef": "c36",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.3",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n60",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 894,
+                                  "y": 238,
+                                  "w": 60,
+                                  "h": 24
+                                },
+                                "contentRef": "c37",
+                                "children": [],
+                                "role": "heading",
+                                "tokenRefs": {
+                                  "color": "color.1",
+                                  "fontSize": "fontSize.4",
+                                  "fontWeight": "fontWeight.1"
+                                }
+                              },
+                              {
+                                "id": "n61",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 958,
+                                  "y": 240,
+                                  "w": 54,
+                                  "h": 18
+                                },
+                                "contentRef": "c38",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.4",
+                                  "fontSize": "fontSize.2",
+                                  "fontWeight": "fontWeight.2"
+                                }
+                              },
+                              {
+                                "id": "n62",
+                                "type": "IMAGE",
+                                "bbox": {
+                                  "x": 894,
+                                  "y": 272,
+                                  "w": 160,
+                                  "h": 34
+                                },
+                                "contentRef": "c39",
+                                "children": []
+                              }
+                            ],
+                            "role": "card"
+                          },
+                          {
+                            "id": "n63",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 1076,
+                              "y": 206,
+                              "w": 184,
+                              "h": 110
+                            },
+                            "children": [
+                              {
+                                "id": "n64",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1088,
+                                  "y": 218,
+                                  "w": 90,
+                                  "h": 16
+                                },
+                                "contentRef": "c40",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.3",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n65",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1088,
+                                  "y": 238,
+                                  "w": 70,
+                                  "h": 24
+                                },
+                                "contentRef": "c41",
+                                "children": [],
+                                "role": "heading",
+                                "tokenRefs": {
+                                  "color": "color.1",
+                                  "fontSize": "fontSize.4",
+                                  "fontWeight": "fontWeight.1"
+                                }
+                              },
+                              {
+                                "id": "n66",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1162,
+                                  "y": 240,
+                                  "w": 48,
+                                  "h": 18
+                                },
+                                "contentRef": "c42",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.4",
+                                  "fontSize": "fontSize.2",
+                                  "fontWeight": "fontWeight.2"
+                                }
+                              },
+                              {
+                                "id": "n67",
+                                "type": "IMAGE",
+                                "bbox": {
+                                  "x": 1088,
+                                  "y": 272,
+                                  "w": 160,
+                                  "h": 34
+                                },
+                                "contentRef": "c43",
+                                "children": []
+                              }
+                            ],
+                            "role": "card"
+                          },
+                          {
+                            "id": "n68",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 1270,
+                              "y": 206,
+                              "w": 184,
+                              "h": 110
+                            },
+                            "children": [
+                              {
+                                "id": "n69",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1282,
+                                  "y": 218,
+                                  "w": 110,
+                                  "h": 16
+                                },
+                                "contentRef": "c44",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.3",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n70",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1282,
+                                  "y": 238,
+                                  "w": 60,
+                                  "h": 24
+                                },
+                                "contentRef": "c45",
+                                "children": [],
+                                "role": "heading",
+                                "tokenRefs": {
+                                  "color": "color.1",
+                                  "fontSize": "fontSize.4",
+                                  "fontWeight": "fontWeight.1"
+                                }
+                              },
+                              {
+                                "id": "n71",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1344,
+                                  "y": 240,
+                                  "w": 54,
+                                  "h": 18
+                                },
+                                "contentRef": "c46",
+                                "children": [],
+                                "role": "text",
+                                "tokenRefs": {
+                                  "color": "color.4",
+                                  "fontSize": "fontSize.2",
+                                  "fontWeight": "fontWeight.2"
+                                }
+                              },
+                              {
+                                "id": "n72",
+                                "type": "IMAGE",
+                                "bbox": {
+                                  "x": 1282,
+                                  "y": 272,
+                                  "w": 160,
+                                  "h": 34
+                                },
+                                "contentRef": "c47",
+                                "children": []
+                              }
+                            ],
+                            "role": "card"
+                          }
+                        ],
+                        "role": "list"
+                      },
+                      {
+                        "id": "n73",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 688,
+                          "y": 328,
+                          "w": 504,
+                          "h": 240
+                        },
+                        "children": [
+                          {
+                            "id": "n74",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 704,
+                              "y": 344,
+                              "w": 150,
+                              "h": 20
+                            },
+                            "contentRef": "c48",
+                            "children": [],
+                            "role": "heading",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontSize": "fontSize.6",
+                              "fontWeight": "fontWeight.2"
+                            }
+                          },
+                          {
+                            "id": "n75",
+                            "type": "IMAGE",
+                            "bbox": {
+                              "x": 700,
+                              "y": 372,
+                              "w": 480,
+                              "h": 180
+                            },
+                            "contentRef": "c49",
+                            "children": []
+                          },
+                          {
+                            "id": "n76",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 900,
+                              "y": 372,
+                              "w": 90,
+                              "h": 14
+                            },
+                            "contentRef": "c50",
+                            "children": [],
+                            "role": "text",
+                            "tokenRefs": {
+                              "color": "color.3",
+                              "fontSize": "fontSize.1"
+                            }
+                          },
+                          {
+                            "id": "n77",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 900,
+                              "y": 390,
+                              "w": 80,
+                              "h": 20
+                            },
+                            "contentRef": "c51",
+                            "children": [],
+                            "role": "text",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontSize": "fontSize.6",
+                              "fontWeight": "fontWeight.1"
+                            }
+                          }
+                        ],
+                        "role": "card"
+                      },
+                      {
+                        "id": "n78",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 1202,
+                          "y": 328,
+                          "w": 256,
+                          "h": 240
+                        },
+                        "children": [
+                          {
+                            "id": "n79",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 1218,
+                              "y": 344,
+                              "w": 100,
+                              "h": 20
+                            },
+                            "contentRef": "c52",
+                            "children": [],
+                            "role": "heading",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontSize": "fontSize.6",
+                              "fontWeight": "fontWeight.2"
+                            }
+                          },
+                          {
+                            "id": "n80",
+                            "type": "IMAGE",
+                            "bbox": {
+                              "x": 1248,
+                              "y": 368,
+                              "w": 96,
+                              "h": 96
+                            },
+                            "contentRef": "c53",
+                            "children": []
+                          },
+                          {
+                            "id": "n81",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 1278,
+                              "y": 406,
+                              "w": 60,
+                              "h": 14
+                            },
+                            "contentRef": "c54",
+                            "children": [],
+                            "role": "text",
+                            "tokenRefs": {
+                              "color": "color.1",
+                              "fontSize": "fontSize.2",
+                              "fontWeight": "fontWeight.1"
+                            }
+                          },
+                          {
+                            "id": "n82",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 1278,
+                              "y": 422,
+                              "w": 40,
+                              "h": 12
+                            },
+                            "style": {
+                              "fontSize": 10
+                            },
+                            "contentRef": "c55",
+                            "children": [],
+                            "role": "text",
+                            "tokenRefs": {
+                              "color": "color.3"
+                            }
+                          },
+                          {
+                            "id": "n83",
+                            "type": "GROUP",
+                            "bbox": {
+                              "x": 1210,
+                              "y": 476,
+                              "w": 240,
+                              "h": 80
+                            },
+                            "children": [
+                              {
+                                "id": "n84",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1210,
+                                  "y": 476,
+                                  "w": 240,
+                                  "h": 16
+                                },
+                                "contentRef": "c56",
+                                "children": [],
+                                "role": "listitem",
+                                "tokenRefs": {
+                                  "color": "color.2",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n85",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1210,
+                                  "y": 496,
+                                  "w": 240,
+                                  "h": 16
+                                },
+                                "contentRef": "c57",
+                                "children": [],
+                                "role": "listitem",
+                                "tokenRefs": {
+                                  "color": "color.2",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n86",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1210,
+                                  "y": 516,
+                                  "w": 240,
+                                  "h": 16
+                                },
+                                "contentRef": "c58",
+                                "children": [],
+                                "role": "listitem",
+                                "tokenRefs": {
+                                  "color": "color.2",
+                                  "fontSize": "fontSize.1"
+                                }
+                              },
+                              {
+                                "id": "n87",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1210,
+                                  "y": 536,
+                                  "w": 240,
+                                  "h": 16
+                                },
+                                "contentRef": "c59",
+                                "children": [],
+                                "role": "listitem",
+                                "tokenRefs": {
+                                  "color": "color.2",
+                                  "fontSize": "fontSize.1"
+                                }
+                              }
+                            ],
+                            "role": "list"
+                          }
+                        ],
+                        "role": "card"
+                      },
+                      {
+                        "id": "n88",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 688,
+                          "y": 580,
+                          "w": 770,
+                          "h": 58
+                        },
+                        "children": [
+                          {
+                            "id": "n89",
+                            "type": "IMAGE",
+                            "bbox": {
+                              "x": 704,
+                              "y": 594,
+                              "w": 22,
+                              "h": 22
+                            },
+                            "contentRef": "c60",
+                            "children": []
+                          },
+                          {
+                            "id": "n90",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 734,
+                              "y": 588,
+                              "w": 60,
+                              "h": 16
+                            },
+                            "contentRef": "c61",
+                            "children": [],
+                            "role": "heading",
+                            "tokenRefs": {
+                              "color": "color.5",
+                              "fontSize": "fontSize.5",
+                              "fontWeight": "fontWeight.1"
+                            }
+                          },
+                          {
+                            "id": "n91",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 734,
+                              "y": 606,
+                              "w": 440,
+                              "h": 14
+                            },
+                            "contentRef": "c62",
+                            "children": [],
+                            "role": "text",
+                            "tokenRefs": {
+                              "color": "color.2",
+                              "fontSize": "fontSize.1"
+                            }
+                          },
+                          {
+                            "id": "n92",
+                            "type": "RECTANGLE",
+                            "bbox": {
+                              "x": 1336,
+                              "y": 590,
+                              "w": 120,
+                              "h": 36
+                            },
+                            "children": [
+                              {
+                                "id": "n93",
+                                "type": "TEXT",
+                                "bbox": {
+                                  "x": 1348,
+                                  "y": 600,
+                                  "w": 100,
+                                  "h": 16
+                                },
+                                "contentRef": "c63",
+                                "children": [],
+                                "role": "button",
+                                "tokenRefs": {
+                                  "color": "color.5",
+                                  "fontSize": "fontSize.2",
+                                  "fontWeight": "fontWeight.2"
+                                }
+                              }
+                            ],
+                            "role": "button"
+                          }
+                        ],
+                        "role": "card"
+                      }
+                    ],
+                    "role": "container"
+                  }
+                ],
+                "role": "container"
+              }
+            ],
+            "role": "container"
+          },
+          {
+            "id": "n94",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 712,
+              "w": 1536,
+              "h": 112
+            },
+            "children": [
+              {
+                "id": "n95",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 740,
+                  "w": 260,
+                  "h": 64
+                },
+                "children": [
+                  {
+                    "id": "n96",
+                    "type": "GROUP",
+                    "bbox": {
+                      "x": 40,
+                      "y": 740,
+                      "w": 130,
+                      "h": 20
+                    },
+                    "children": [
+                      {
+                        "id": "n97",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 40,
+                          "y": 740,
+                          "w": 130,
+                          "h": 20
+                        },
+                        "contentRef": "c64",
+                        "children": [],
+                        "role": "text",
+                        "tokenRefs": {
+                          "color": "color.5",
+                          "fontSize": "fontSize.4"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n98",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 768,
+                      "w": 220,
+                      "h": 20
+                    },
+                    "contentRef": "c65",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.1",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n99",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 792,
+                      "w": 200,
+                      "h": 16
+                    },
+                    "contentRef": "c66",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.3",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "n100",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 340,
+                  "y": 750,
+                  "w": 1156,
+                  "h": 50
+                },
+                "children": [
+                  {
+                    "id": "n101",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 340,
+                      "y": 758,
+                      "w": 110,
+                      "h": 34
+                    },
+                    "contentRef": "c67",
+                    "children": []
+                  },
+                  {
+                    "id": "n102",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 512,
+                      "y": 758,
+                      "w": 120,
+                      "h": 34
+                    },
+                    "contentRef": "c68",
+                    "children": []
+                  },
+                  {
+                    "id": "n103",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 696,
+                      "y": 758,
+                      "w": 80,
+                      "h": 34
+                    },
+                    "contentRef": "c69",
+                    "children": []
+                  },
+                  {
+                    "id": "n104",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 848,
+                      "y": 758,
+                      "w": 110,
+                      "h": 34
+                    },
+                    "contentRef": "c70",
+                    "children": []
+                  },
+                  {
+                    "id": "n105",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 1028,
+                      "y": 758,
+                      "w": 90,
+                      "h": 34
+                    },
+                    "contentRef": "c71",
+                    "children": []
+                  },
+                  {
+                    "id": "n106",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 1200,
+                      "y": 758,
+                      "w": 116,
+                      "h": 34
+                    },
+                    "contentRef": "c72",
+                    "children": []
+                  }
+                ],
+                "role": "list"
+              }
+            ],
+            "role": "container"
+          }
+        ],
+        "role": "container"
+      }
+    }
+  }
+}

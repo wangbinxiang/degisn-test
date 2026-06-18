@@ -1213,7 +1213,7 @@
                     ]
                   },
                   {
-                    "id": "n40",
+                    "id": "n46",
                     "type": "FRAME",
                     "bbox": {
                       "x": 540,
@@ -1228,114 +1228,10 @@
                     },
                     "children": [
                       {
-                        "id": "n41",
-                        "type": "TEXT",
-                        "bbox": {
-                          "x": 560,
-                          "y": 154,
-                          "w": 120,
-                          "h": 18
-                        },
-                        "role": "heading",
-                        "tokenRefs": {
-                          "fill": "color.1",
-                          "color": "color.5",
-                          "fontSize": "fontSize.1"
-                        },
-                        "contentRef": "c27",
-                        "children": []
-                      },
-                      {
-                        "id": "n42",
-                        "type": "TEXT",
-                        "bbox": {
-                          "x": 706,
-                          "y": 152,
-                          "w": 50,
-                          "h": 18
-                        },
-                        "role": "text",
-                        "tokenRefs": {
-                          "fill": "color.1",
-                          "color": "color.7",
-                          "fontSize": "fontSize.1"
-                        },
-                        "contentRef": "c28",
-                        "children": []
-                      },
-                      {
-                        "id": "n43",
-                        "type": "TEXT",
-                        "bbox": {
-                          "x": 560,
-                          "y": 178,
-                          "w": 80,
-                          "h": 34
-                        },
-                        "role": "text",
-                        "tokenRefs": {
-                          "fill": "color.1",
-                          "color": "color.2",
-                          "fontSize": "fontSize.6"
-                        },
-                        "contentRef": "c29",
-                        "children": []
-                      },
-                      {
-                        "id": "n44",
-                        "type": "RECTANGLE",
-                        "bbox": {
-                          "x": 750,
-                          "y": 168,
-                          "w": 52,
-                          "h": 52
-                        },
-                        "tokenRefs": {
-                          "fill": "color.1",
-                          "radius": "radius.5"
-                        },
-                        "children": []
-                      },
-                      {
-                        "id": "n45",
-                        "type": "TEXT",
-                        "bbox": {
-                          "x": 560,
-                          "y": 220,
-                          "w": 190,
-                          "h": 16
-                        },
-                        "role": "text",
-                        "tokenRefs": {
-                          "fill": "color.1",
-                          "color": "color.3",
-                          "fontSize": "fontSize.3"
-                        },
-                        "contentRef": "c30",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "id": "n46",
-                    "type": "FRAME",
-                    "bbox": {
-                      "x": 856,
-                      "y": 136,
-                      "w": 300,
-                      "h": 116
-                    },
-                    "role": "card",
-                    "tokenRefs": {
-                      "fill": "color.1",
-                      "radius": "radius.1"
-                    },
-                    "children": [
-                      {
                         "id": "n47",
                         "type": "TEXT",
                         "bbox": {
-                          "x": 876,
+                          "x": 560,
                           "y": 154,
                           "w": 140,
                           "h": 18
@@ -1353,7 +1249,7 @@
                         "id": "n48",
                         "type": "TEXT",
                         "bbox": {
-                          "x": 1022,
+                          "x": 706,
                           "y": 152,
                           "w": 52,
                           "h": 18
@@ -1371,7 +1267,7 @@
                         "id": "n49",
                         "type": "TEXT",
                         "bbox": {
-                          "x": 876,
+                          "x": 560,
                           "y": 178,
                           "w": 80,
                           "h": 34
@@ -1389,7 +1285,7 @@
                         "id": "n50",
                         "type": "RECTANGLE",
                         "bbox": {
-                          "x": 1064,
+                          "x": 748,
                           "y": 168,
                           "w": 52,
                           "h": 52
@@ -1404,7 +1300,7 @@
                         "id": "n51",
                         "type": "TEXT",
                         "bbox": {
-                          "x": 876,
+                          "x": 560,
                           "y": 220,
                           "w": 190,
                           "h": 16
@@ -1416,6 +1312,110 @@
                           "fontSize": "fontSize.3"
                         },
                         "contentRef": "c34",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n40",
+                    "type": "FRAME",
+                    "bbox": {
+                      "x": 856,
+                      "y": 136,
+                      "w": 300,
+                      "h": 116
+                    },
+                    "role": "card",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "radius": "radius.1"
+                    },
+                    "children": [
+                      {
+                        "id": "n41",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 876,
+                          "y": 154,
+                          "w": 120,
+                          "h": 18
+                        },
+                        "role": "heading",
+                        "tokenRefs": {
+                          "fill": "color.1",
+                          "color": "color.5",
+                          "fontSize": "fontSize.1"
+                        },
+                        "contentRef": "c27",
+                        "children": []
+                      },
+                      {
+                        "id": "n42",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 357.21207764198425,
+                          "y": 161.4291876347951,
+                          "w": 50,
+                          "h": 18
+                        },
+                        "role": "text",
+                        "tokenRefs": {
+                          "fill": "color.1",
+                          "color": "color.7",
+                          "fontSize": "fontSize.1"
+                        },
+                        "contentRef": "c28",
+                        "children": []
+                      },
+                      {
+                        "id": "n43",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 876,
+                          "y": 178,
+                          "w": 80,
+                          "h": 34
+                        },
+                        "role": "text",
+                        "tokenRefs": {
+                          "fill": "color.1",
+                          "color": "color.2",
+                          "fontSize": "fontSize.6"
+                        },
+                        "contentRef": "c29",
+                        "children": []
+                      },
+                      {
+                        "id": "n44",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 1066,
+                          "y": 168,
+                          "w": 52,
+                          "h": 52
+                        },
+                        "tokenRefs": {
+                          "fill": "color.1",
+                          "radius": "radius.5"
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "n45",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 876,
+                          "y": 220,
+                          "w": 190,
+                          "h": 16
+                        },
+                        "role": "text",
+                        "tokenRefs": {
+                          "fill": "color.1",
+                          "color": "color.3",
+                          "fontSize": "fontSize.3"
+                        },
+                        "contentRef": "c30",
                         "children": []
                       }
                     ]

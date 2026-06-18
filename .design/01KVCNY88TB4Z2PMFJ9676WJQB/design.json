@@ -531,26 +531,10 @@
                     "children": []
                   },
                   {
-                    "id": "n9",
-                    "type": "TEXT",
-                    "bbox": {
-                      "x": 136,
-                      "y": 15,
-                      "w": 40,
-                      "h": 28
-                    },
-                    "role": "link",
-                    "tokenRefs": {
-                      "fill": "color.1"
-                    },
-                    "contentRef": "c5",
-                    "children": []
-                  },
-                  {
                     "id": "n10",
                     "type": "TEXT",
                     "bbox": {
-                      "x": 199,
+                      "x": 136,
                       "y": 15,
                       "w": 110,
                       "h": 28
@@ -562,6 +546,22 @@
                       "fontSize": "fontSize.2"
                     },
                     "contentRef": "c6",
+                    "children": []
+                  },
+                  {
+                    "id": "n9",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 269,
+                      "y": 15,
+                      "w": 40,
+                      "h": 28
+                    },
+                    "role": "link",
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    },
+                    "contentRef": "c5",
                     "children": []
                   },
                   {

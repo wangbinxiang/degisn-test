@@ -665,28 +665,6 @@
                     "children": []
                   },
                   {
-                    "id": "n21",
-                    "type": "TEXT",
-                    "bbox": {
-                      "x": 116,
-                      "y": 126,
-                      "w": 580,
-                      "h": 120
-                    },
-                    "role": "heading",
-                    "style": {
-                      "fontSize": 52,
-                      "lineHeight": 1.15
-                    },
-                    "tokenRefs": {
-                      "fill": "color.1",
-                      "color": "color.4",
-                      "fontWeight": "fontWeight.2"
-                    },
-                    "contentRef": "c12",
-                    "children": []
-                  },
-                  {
                     "id": "n22",
                     "type": "TEXT",
                     "bbox": {

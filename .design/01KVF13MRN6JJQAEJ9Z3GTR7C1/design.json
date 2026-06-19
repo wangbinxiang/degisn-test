@@ -1,0 +1,3408 @@
+{
+  "meta": {
+    "id": "01KVF13MRN6JJQAEJ9Z3GTR7C1",
+    "name": "Untitled design"
+  },
+  "tokens": {
+    "color": {
+      "1": {
+        "$type": "color",
+        "$value": "#fefefe"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#333333"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#1a1a1a"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#888888"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#ff9500"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "#e9e1da"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "#cccccc"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "#555555"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "#f8f1e9"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#aaaaaa"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "#ff3b30"
+      }
+    },
+    "fontSize": {
+      "1": {
+        "$type": "dimension",
+        "$value": {
+          "value": 13,
+          "unit": "px"
+        }
+      },
+      "2": {
+        "$type": "dimension",
+        "$value": {
+          "value": 12,
+          "unit": "px"
+        }
+      },
+      "3": {
+        "$type": "dimension",
+        "$value": {
+          "value": 14,
+          "unit": "px"
+        }
+      },
+      "4": {
+        "$type": "dimension",
+        "$value": {
+          "value": 11,
+          "unit": "px"
+        }
+      },
+      "5": {
+        "$type": "dimension",
+        "$value": {
+          "value": 18,
+          "unit": "px"
+        }
+      },
+      "6": {
+        "$type": "dimension",
+        "$value": {
+          "value": 16,
+          "unit": "px"
+        }
+      },
+      "7": {
+        "$type": "dimension",
+        "$value": {
+          "value": 22,
+          "unit": "px"
+        }
+      },
+      "8": {
+        "$type": "dimension",
+        "$value": {
+          "value": 15,
+          "unit": "px"
+        }
+      },
+      "9": {
+        "$type": "dimension",
+        "$value": {
+          "value": 28,
+          "unit": "px"
+        }
+      }
+    },
+    "fontWeight": {
+      "1": {
+        "$type": "number",
+        "$value": 600
+      },
+      "2": {
+        "$type": "number",
+        "$value": 500
+      }
+    }
+  },
+  "content": {
+    "c1": {
+      "kind": "text",
+      "value": "🚚 全场免运费，30天无忧退货"
+    },
+    "c2": {
+      "kind": "text",
+      "value": "帮助中心"
+    },
+    "c3": {
+      "kind": "text",
+      "value": "订单跟踪"
+    },
+    "c4": {
+      "kind": "text",
+      "value": "简体中文 / ¥ CNY ▾"
+    },
+    "c5": {
+      "kind": "text",
+      "value": "Shop"
+    },
+    "c6": {
+      "kind": "text",
+      "value": "Ease"
+    },
+    "c7": {
+      "kind": "text",
+      "value": "搜索商品、品牌或关键词"
+    },
+    "c8": {
+      "kind": "text",
+      "value": "🔍"
+    },
+    "c9": {
+      "kind": "text",
+      "value": "登录 / 注册"
+    },
+    "c10": {
+      "kind": "text",
+      "value": "♡"
+    },
+    "c11": {
+      "kind": "text",
+      "value": "🛒"
+    },
+    "c12": {
+      "kind": "text",
+      "value": "0"
+    },
+    "c13": {
+      "kind": "text",
+      "value": "☰ 全部分类"
+    },
+    "c14": {
+      "kind": "text",
+      "value": "首页"
+    },
+    "c15": {
+      "kind": "text",
+      "value": "限时优惠"
+    },
+    "c16": {
+      "kind": "text",
+      "value": "HOT"
+    },
+    "c17": {
+      "kind": "text",
+      "value": "新品上架"
+    },
+    "c18": {
+      "kind": "text",
+      "value": "畅销榜单"
+    },
+    "c19": {
+      "kind": "text",
+      "value": "品牌专区"
+    },
+    "c20": {
+      "kind": "text",
+      "value": "博客"
+    },
+    "c21": {
+      "kind": "text",
+      "value": "📱 电子产品 ›"
+    },
+    "c22": {
+      "kind": "text",
+      "value": "🏠 家居生活 ›"
+    },
+    "c23": {
+      "kind": "text",
+      "value": "👗 时尚服饰 ›"
+    },
+    "c24": {
+      "kind": "text",
+      "value": "💄 美妆个护 ›"
+    },
+    "c25": {
+      "kind": "text",
+      "value": "🍼 母婴玩具 ›"
+    },
+    "c26": {
+      "kind": "text",
+      "value": "⛺ 运动户外 ›"
+    },
+    "c27": {
+      "kind": "text",
+      "value": "🍷 食品酒水 ›"
+    },
+    "c28": {
+      "kind": "text",
+      "value": "🐾 宠物用品 ›"
+    },
+    "c29": {
+      "kind": "text",
+      "value": "🚗 汽车用品 ›"
+    },
+    "c30": {
+      "kind": "image",
+      "alt": "品质生活从家开始 - 精选家居好物沙发客厅场景"
+    },
+    "c31": {
+      "kind": "text",
+      "value": "品质生活 从家开始"
+    },
+    "c32": {
+      "kind": "text",
+      "value": "精选家居好物，打造理想生活空间"
+    },
+    "c33": {
+      "kind": "text",
+      "value": "低至"
+    },
+    "c34": {
+      "kind": "text",
+      "value": "5"
+    },
+    "c35": {
+      "kind": "text",
+      "value": "折起"
+    },
+    "c36": {
+      "kind": "text",
+      "value": "立即选购 →"
+    },
+    "c37": {
+      "kind": "text",
+      "value": "‹"
+    },
+    "c38": {
+      "kind": "text",
+      "value": "›"
+    },
+    "c39": {
+      "kind": "text",
+      "value": "🚚"
+    },
+    "c40": {
+      "kind": "text",
+      "value": "全场免运费"
+    },
+    "c41": {
+      "kind": "text",
+      "value": "满299元即可享受"
+    },
+    "c42": {
+      "kind": "text",
+      "value": "🔄"
+    },
+    "c43": {
+      "kind": "text",
+      "value": "30天无忧退货"
+    },
+    "c44": {
+      "kind": "text",
+      "value": "不满意全额退款"
+    },
+    "c45": {
+      "kind": "text",
+      "value": "🛡"
+    },
+    "c46": {
+      "kind": "text",
+      "value": "100%正品保证"
+    },
+    "c47": {
+      "kind": "text",
+      "value": "官方直供 假一赔十"
+    },
+    "c48": {
+      "kind": "text",
+      "value": "🎧"
+    },
+    "c49": {
+      "kind": "text",
+      "value": "24/7客服支持"
+    },
+    "c50": {
+      "kind": "text",
+      "value": "随时为您服务"
+    },
+    "c51": {
+      "kind": "image",
+      "alt": "电子产品图标"
+    },
+    "c52": {
+      "kind": "text",
+      "value": "电子产品"
+    },
+    "c53": {
+      "kind": "image",
+      "alt": "家居生活图标"
+    },
+    "c54": {
+      "kind": "text",
+      "value": "家居生活"
+    },
+    "c55": {
+      "kind": "image",
+      "alt": "时尚服饰图标"
+    },
+    "c56": {
+      "kind": "text",
+      "value": "时尚服饰"
+    },
+    "c57": {
+      "kind": "image",
+      "alt": "美妆个护图标"
+    },
+    "c58": {
+      "kind": "text",
+      "value": "美妆个护"
+    },
+    "c59": {
+      "kind": "image",
+      "alt": "母婴玩具图标"
+    },
+    "c60": {
+      "kind": "text",
+      "value": "母婴玩具"
+    },
+    "c61": {
+      "kind": "image",
+      "alt": "运动户外图标"
+    },
+    "c62": {
+      "kind": "text",
+      "value": "运动户外"
+    },
+    "c63": {
+      "kind": "image",
+      "alt": "食品酒水图标"
+    },
+    "c64": {
+      "kind": "text",
+      "value": "食品酒水"
+    },
+    "c65": {
+      "kind": "image",
+      "alt": "宠物用品图标"
+    },
+    "c66": {
+      "kind": "text",
+      "value": "宠物用品"
+    },
+    "c67": {
+      "kind": "image",
+      "alt": "汽车用品图标"
+    },
+    "c68": {
+      "kind": "text",
+      "value": "汽车用品"
+    },
+    "c69": {
+      "kind": "text",
+      "value": "限时闪购"
+    },
+    "c70": {
+      "kind": "text",
+      "value": "02"
+    },
+    "c71": {
+      "kind": "text",
+      "value": ":"
+    },
+    "c72": {
+      "kind": "text",
+      "value": "45"
+    },
+    "c73": {
+      "kind": "text",
+      "value": ":"
+    },
+    "c74": {
+      "kind": "text",
+      "value": "18"
+    },
+    "c75": {
+      "kind": "image",
+      "alt": "限时闪购耳机"
+    },
+    "c76": {
+      "kind": "text",
+      "value": "每日精选 爆款直降"
+    },
+    "c77": {
+      "kind": "text",
+      "value": "去抢购 →"
+    },
+    "c78": {
+      "kind": "text",
+      "value": "新品上架"
+    },
+    "c79": {
+      "kind": "text",
+      "value": "发现好物：春季焕新"
+    },
+    "c80": {
+      "kind": "image",
+      "alt": "新品上架绿色手提包"
+    },
+    "c81": {
+      "kind": "text",
+      "value": "立即查看 →"
+    },
+    "c82": {
+      "kind": "text",
+      "value": "为你推荐"
+    },
+    "c83": {
+      "kind": "text",
+      "value": "精选推荐"
+    },
+    "c84": {
+      "kind": "text",
+      "value": "人气榜单"
+    },
+    "c85": {
+      "kind": "text",
+      "value": "新款上架"
+    },
+    "c86": {
+      "kind": "text",
+      "value": "查看全部 →"
+    },
+    "c87": {
+      "kind": "image",
+      "alt": "Apple iPhone 15 Pro 256GB 紫色"
+    },
+    "c88": {
+      "kind": "text",
+      "value": "Apple iPhone 15 Pro 256GB"
+    },
+    "c89": {
+      "kind": "text",
+      "value": "A17 Pro芯片，钛金属设计"
+    },
+    "c90": {
+      "kind": "text",
+      "value": "¥ 7,999.00"
+    },
+    "c91": {
+      "kind": "text",
+      "value": "¥ 8,999.00"
+    },
+    "c92": {
+      "kind": "text",
+      "value": "★★★★★ 9.8k"
+    },
+    "c93": {
+      "kind": "text",
+      "value": "♡"
+    },
+    "c94": {
+      "kind": "image",
+      "alt": "北欧布艺沙发三人位"
+    },
+    "c95": {
+      "kind": "text",
+      "value": "北欧布艺沙发 三人位"
+    },
+    "c96": {
+      "kind": "text",
+      "value": "简约设计，舒适耐用"
+    },
+    "c97": {
+      "kind": "text",
+      "value": "¥ 2,399.00"
+    },
+    "c98": {
+      "kind": "text",
+      "value": "★★★★★ 1.2k"
+    },
+    "c99": {
+      "kind": "text",
+      "value": "♡"
+    },
+    "c100": {
+      "kind": "image",
+      "alt": "Casio G-SHOCK 手表"
+    },
+    "c101": {
+      "kind": "text",
+      "value": "Casio G-SHOCK 手表"
+    },
+    "c102": {
+      "kind": "text",
+      "value": "防震防水，时尚运动"
+    },
+    "c103": {
+      "kind": "text",
+      "value": "¥ 1,290.00"
+    },
+    "c104": {
+      "kind": "text",
+      "value": "★★★★★ 3.6k"
+    },
+    "c105": {
+      "kind": "text",
+      "value": "♡"
+    },
+    "c106": {
+      "kind": "image",
+      "alt": "雅诗兰黛小棕瓶精华50ml"
+    },
+    "c107": {
+      "kind": "text",
+      "value": "雅诗兰黛小棕瓶 精华 50ml"
+    },
+    "c108": {
+      "kind": "text",
+      "value": "修护肌肤，保湿抗老"
+    },
+    "c109": {
+      "kind": "text",
+      "value": "¥ 895.00"
+    },
+    "c110": {
+      "kind": "text",
+      "value": "★★★★★ 2.3k"
+    },
+    "c111": {
+      "kind": "text",
+      "value": "♡"
+    },
+    "c112": {
+      "kind": "image",
+      "alt": "Nike Air Force 1 '07 男子运动鞋"
+    },
+    "c113": {
+      "kind": "text",
+      "value": "Nike Air Force 1 '07 男子运动鞋"
+    },
+    "c114": {
+      "kind": "text",
+      "value": "经典款式，舒适首搭"
+    },
+    "c115": {
+      "kind": "text",
+      "value": "¥ 799.00"
+    },
+    "c116": {
+      "kind": "text",
+      "value": "★★★★★ 4.7k"
+    },
+    "c117": {
+      "kind": "text",
+      "value": "♡"
+    }
+  },
+  "platforms": {
+    "web": {
+      "platform": "web",
+      "viewport": {
+        "w": 1536,
+        "h": 1024
+      },
+      "seedImage": ".design/01KVF13MRN6JJQAEJ9Z3GTR7C1/seed.png",
+      "root": {
+        "id": "n1",
+        "type": "FRAME",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "w": 1536,
+          "h": 1024
+        },
+        "style": {
+          "fill": "#F5F5F5"
+        },
+        "children": [
+          {
+            "id": "n2",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 0,
+              "w": 1536,
+              "h": 28
+            },
+            "children": [
+              {
+                "id": "n3",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 40,
+                  "y": 7,
+                  "w": 220,
+                  "h": 14
+                },
+                "contentRef": "c1",
+                "children": [],
+                "role": "text",
+                "tokenRefs": {
+                  "color": "color.8",
+                  "fontSize": "fontSize.2"
+                }
+              },
+              {
+                "id": "n4",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 1180,
+                  "y": 7,
+                  "w": 60,
+                  "h": 14
+                },
+                "contentRef": "c2",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "color": "color.8",
+                  "fontSize": "fontSize.2"
+                }
+              },
+              {
+                "id": "n5",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 1260,
+                  "y": 7,
+                  "w": 60,
+                  "h": 14
+                },
+                "contentRef": "c3",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.8",
+                  "fontSize": "fontSize.2"
+                }
+              },
+              {
+                "id": "n6",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 1340,
+                  "y": 7,
+                  "w": 120,
+                  "h": 14
+                },
+                "contentRef": "c4",
+                "children": [],
+                "role": "button",
+                "tokenRefs": {
+                  "color": "color.8",
+                  "fontSize": "fontSize.2"
+                }
+              }
+            ],
+            "role": "container",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n7",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 28,
+              "w": 1536,
+              "h": 72
+            },
+            "children": [
+              {
+                "id": "n8",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 40,
+                  "w": 130,
+                  "h": 36
+                },
+                "children": [
+                  {
+                    "id": "n9",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 40,
+                      "w": 80,
+                      "h": 36
+                    },
+                    "contentRef": "c5",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.9"
+                    }
+                  },
+                  {
+                    "id": "n10",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 114,
+                      "y": 40,
+                      "w": 56,
+                      "h": 36
+                    },
+                    "contentRef": "c6",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.9"
+                    }
+                  }
+                ],
+                "role": "container"
+              },
+              {
+                "id": "n11",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 260,
+                  "y": 42,
+                  "w": 660,
+                  "h": 40
+                },
+                "children": [
+                  {
+                    "id": "n12",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 280,
+                      "y": 52,
+                      "w": 200,
+                      "h": 20
+                    },
+                    "contentRef": "c7",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.10",
+                      "fontSize": "fontSize.3"
+                    }
+                  },
+                  {
+                    "id": "n13",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 880,
+                      "y": 42,
+                      "w": 40,
+                      "h": 40
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n14",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 890,
+                      "y": 52,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c8",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.1",
+                      "fontSize": "fontSize.6"
+                    }
+                  }
+                ],
+                "role": "input",
+                "tokenRefs": {
+                  "fill": "color.1"
+                }
+              },
+              {
+                "id": "n15",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 1080,
+                  "y": 44,
+                  "w": 380,
+                  "h": 36
+                },
+                "children": [
+                  {
+                    "id": "n16",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1080,
+                      "y": 50,
+                      "w": 80,
+                      "h": 24
+                    },
+                    "contentRef": "c9",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.3"
+                    }
+                  },
+                  {
+                    "id": "n17",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1200,
+                      "y": 50,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c10",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n18",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1270,
+                      "y": 50,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c11",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n19",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 1288,
+                      "y": 44,
+                      "w": 16,
+                      "h": 16
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n20",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1292,
+                      "y": 46,
+                      "w": 8,
+                      "h": 12
+                    },
+                    "style": {
+                      "fontSize": 10
+                    },
+                    "contentRef": "c12",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.1"
+                    }
+                  }
+                ],
+                "role": "container"
+              }
+            ],
+            "role": "nav",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n21",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 100,
+              "w": 1536,
+              "h": 44
+            },
+            "children": [
+              {
+                "id": "n22",
+                "type": "RECTANGLE",
+                "bbox": {
+                  "x": 40,
+                  "y": 100,
+                  "w": 200,
+                  "h": 44
+                },
+                "children": [],
+                "tokenRefs": {
+                  "fill": "color.3"
+                }
+              },
+              {
+                "id": "n23",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 60,
+                  "y": 112,
+                  "w": 80,
+                  "h": 20
+                },
+                "contentRef": "c13",
+                "children": [],
+                "role": "button",
+                "tokenRefs": {
+                  "color": "color.1",
+                  "fill": "color.3",
+                  "fontSize": "fontSize.3",
+                  "fontWeight": "fontWeight.2"
+                }
+              },
+              {
+                "id": "n24",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 270,
+                  "y": 112,
+                  "w": 30,
+                  "h": 20
+                },
+                "contentRef": "c14",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.5",
+                  "fontSize": "fontSize.3",
+                  "fontWeight": "fontWeight.1"
+                }
+              },
+              {
+                "id": "n25",
+                "type": "RECTANGLE",
+                "bbox": {
+                  "x": 270,
+                  "y": 138,
+                  "w": 30,
+                  "h": 3
+                },
+                "children": [],
+                "tokenRefs": {
+                  "fill": "color.1"
+                }
+              },
+              {
+                "id": "n26",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 330,
+                  "y": 112,
+                  "w": 50,
+                  "h": 20
+                },
+                "children": [
+                  {
+                    "id": "n27",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 330,
+                      "y": 112,
+                      "w": 50,
+                      "h": 20
+                    },
+                    "contentRef": "c15",
+                    "children": [],
+                    "role": "link",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.3"
+                    }
+                  },
+                  {
+                    "id": "n28",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 376,
+                      "y": 108,
+                      "w": 28,
+                      "h": 14
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n29",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 378,
+                      "y": 109,
+                      "w": 24,
+                      "h": 12
+                    },
+                    "style": {
+                      "fontSize": 9
+                    },
+                    "contentRef": "c16",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.1"
+                    }
+                  }
+                ],
+                "role": "container"
+              },
+              {
+                "id": "n30",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 440,
+                  "y": 112,
+                  "w": 60,
+                  "h": 20
+                },
+                "contentRef": "c17",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.2",
+                  "fontSize": "fontSize.3"
+                }
+              },
+              {
+                "id": "n31",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 530,
+                  "y": 112,
+                  "w": 60,
+                  "h": 20
+                },
+                "contentRef": "c18",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.2",
+                  "fontSize": "fontSize.3"
+                }
+              },
+              {
+                "id": "n32",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 620,
+                  "y": 112,
+                  "w": 60,
+                  "h": 20
+                },
+                "contentRef": "c19",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.2",
+                  "fontSize": "fontSize.3"
+                }
+              },
+              {
+                "id": "n33",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 710,
+                  "y": 112,
+                  "w": 30,
+                  "h": 20
+                },
+                "contentRef": "c20",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.2",
+                  "fontSize": "fontSize.3"
+                }
+              }
+            ],
+            "role": "nav",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n34",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 144,
+              "w": 1536,
+              "h": 400
+            },
+            "children": [
+              {
+                "id": "n35",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 40,
+                  "y": 144,
+                  "w": 200,
+                  "h": 400
+                },
+                "children": [
+                  {
+                    "id": "n36",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 158,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c21",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n37",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 192,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c22",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n38",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 226,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c23",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n39",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 260,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c24",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n40",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 294,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c25",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n41",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 328,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c26",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n42",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 362,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c27",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n43",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 396,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c28",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  },
+                  {
+                    "id": "n44",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 60,
+                      "y": 430,
+                      "w": 160,
+                      "h": 28
+                    },
+                    "contentRef": "c29",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.1"
+                    }
+                  }
+                ],
+                "layout": {
+                  "direction": "column",
+                  "gap": 6,
+                  "padding": [
+                    14,
+                    20,
+                    86,
+                    20
+                  ],
+                  "align": "start",
+                  "justify": "start"
+                },
+                "role": "list",
+                "tokenRefs": {
+                  "fill": "color.1"
+                }
+              },
+              {
+                "id": "n45",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 240,
+                  "y": 144,
+                  "w": 1256,
+                  "h": 400
+                },
+                "children": [
+                  {
+                    "id": "n46",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 240,
+                      "y": 144,
+                      "w": 1256,
+                      "h": 400
+                    },
+                    "style": {
+                      "objectFit": "cover"
+                    },
+                    "contentRef": "c30",
+                    "children": []
+                  },
+                  {
+                    "id": "n47",
+                    "type": "GROUP",
+                    "bbox": {
+                      "x": 290,
+                      "y": 200,
+                      "w": 400,
+                      "h": 240
+                    },
+                    "children": [
+                      {
+                        "id": "n48",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 290,
+                          "y": 210,
+                          "w": 360,
+                          "h": 60
+                        },
+                        "style": {
+                          "fontSize": 40
+                        },
+                        "contentRef": "c31",
+                        "children": [],
+                        "role": "heading",
+                        "tokenRefs": {
+                          "color": "color.3"
+                        }
+                      },
+                      {
+                        "id": "n49",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 290,
+                          "y": 278,
+                          "w": 320,
+                          "h": 24
+                        },
+                        "style": {
+                          "color": "#444444"
+                        },
+                        "contentRef": "c32",
+                        "children": [],
+                        "role": "text",
+                        "tokenRefs": {
+                          "fontSize": "fontSize.6"
+                        }
+                      },
+                      {
+                        "id": "n50",
+                        "type": "GROUP",
+                        "bbox": {
+                          "x": 290,
+                          "y": 316,
+                          "w": 200,
+                          "h": 40
+                        },
+                        "children": [
+                          {
+                            "id": "n51",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 290,
+                              "y": 320,
+                              "w": 40,
+                              "h": 36
+                            },
+                            "contentRef": "c33",
+                            "children": [],
+                            "tokenRefs": {
+                              "fill": "color.1",
+                              "color": "color.3",
+                              "fontSize": "fontSize.5"
+                            }
+                          },
+                          {
+                            "id": "n52",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 331,
+                              "y": 308,
+                              "w": 36,
+                              "h": 48
+                            },
+                            "style": {
+                              "fontSize": 48
+                            },
+                            "contentRef": "c34",
+                            "children": [],
+                            "tokenRefs": {
+                              "color": "color.5",
+                              "fill": "color.6"
+                            }
+                          },
+                          {
+                            "id": "n53",
+                            "type": "TEXT",
+                            "bbox": {
+                              "x": 368,
+                              "y": 320,
+                              "w": 60,
+                              "h": 36
+                            },
+                            "contentRef": "c35",
+                            "children": [],
+                            "tokenRefs": {
+                              "color": "color.3",
+                              "fill": "color.6",
+                              "fontSize": "fontSize.5"
+                            }
+                          }
+                        ],
+                        "layout": {
+                          "direction": "row",
+                          "gap": 1,
+                          "padding": [
+                            0,
+                            62,
+                            0,
+                            0
+                          ],
+                          "align": "end",
+                          "justify": "start"
+                        }
+                      },
+                      {
+                        "id": "n54",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 290,
+                          "y": 370,
+                          "w": 160,
+                          "h": 44
+                        },
+                        "children": [],
+                        "role": "button",
+                        "tokenRefs": {
+                          "fill": "color.6"
+                        }
+                      },
+                      {
+                        "id": "n55",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 310,
+                          "y": 382,
+                          "w": 120,
+                          "h": 20
+                        },
+                        "contentRef": "c36",
+                        "children": [],
+                        "role": "button",
+                        "tokenRefs": {
+                          "color": "color.1",
+                          "fill": "color.6",
+                          "fontSize": "fontSize.8",
+                          "fontWeight": "fontWeight.2"
+                        }
+                      }
+                    ],
+                    "role": "container"
+                  },
+                  {
+                    "id": "n56",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 272,
+                      "y": 524,
+                      "w": 14,
+                      "h": 14
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n57",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 292,
+                      "y": 526,
+                      "w": 10,
+                      "h": 10
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n58",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 308,
+                      "y": 526,
+                      "w": 10,
+                      "h": 10
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n59",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 256,
+                      "y": 300,
+                      "w": 36,
+                      "h": 36
+                    },
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.6"
+                    }
+                  },
+                  {
+                    "id": "n60",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 266,
+                      "y": 308,
+                      "w": 16,
+                      "h": 20
+                    },
+                    "contentRef": "c37",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.2",
+                      "fill": "color.6",
+                      "fontSize": "fontSize.5"
+                    }
+                  },
+                  {
+                    "id": "n61",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 1456,
+                      "y": 300,
+                      "w": 36,
+                      "h": 36
+                    },
+                    "children": [],
+                    "role": "button"
+                  },
+                  {
+                    "id": "n62",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1465,
+                      "y": 308,
+                      "w": 16,
+                      "h": 20
+                    },
+                    "contentRef": "c38",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "color": "color.2",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "container"
+              }
+            ],
+            "layout": {
+              "direction": "row",
+              "gap": 0,
+              "padding": [
+                0,
+                40,
+                0,
+                40
+              ],
+              "align": "start",
+              "justify": "start"
+            },
+            "role": "container",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n63",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 544,
+              "w": 1536,
+              "h": 72
+            },
+            "children": [
+              {
+                "id": "n64",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 100,
+                  "y": 554,
+                  "w": 260,
+                  "h": 52
+                },
+                "children": [
+                  {
+                    "id": "n65",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 100,
+                      "y": 554,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c39",
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n66",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 130,
+                      "y": 554,
+                      "w": 160,
+                      "h": 20
+                    },
+                    "contentRef": "c40",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n67",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 130,
+                      "y": 576,
+                      "w": 160,
+                      "h": 16
+                    },
+                    "contentRef": "c41",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.2"
+                    }
+                  }
+                ],
+                "role": "listitem"
+              },
+              {
+                "id": "n68",
+                "type": "RECTANGLE",
+                "bbox": {
+                  "x": 422,
+                  "y": 560,
+                  "w": 1,
+                  "h": 40
+                },
+                "children": [],
+                "tokenRefs": {
+                  "fill": "color.1"
+                }
+              },
+              {
+                "id": "n69",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 480,
+                  "y": 554,
+                  "w": 260,
+                  "h": 52
+                },
+                "children": [
+                  {
+                    "id": "n70",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 480,
+                      "y": 554,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c42",
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n71",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 510,
+                      "y": 554,
+                      "w": 160,
+                      "h": 20
+                    },
+                    "contentRef": "c43",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n72",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 510,
+                      "y": 576,
+                      "w": 160,
+                      "h": 16
+                    },
+                    "contentRef": "c44",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.2"
+                    }
+                  }
+                ],
+                "role": "listitem"
+              },
+              {
+                "id": "n73",
+                "type": "RECTANGLE",
+                "bbox": {
+                  "x": 792,
+                  "y": 560,
+                  "w": 1,
+                  "h": 40
+                },
+                "children": [],
+                "tokenRefs": {
+                  "fill": "color.1"
+                }
+              },
+              {
+                "id": "n74",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 850,
+                  "y": 554,
+                  "w": 260,
+                  "h": 52
+                },
+                "children": [
+                  {
+                    "id": "n75",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 850,
+                      "y": 554,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c45",
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n76",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 880,
+                      "y": 554,
+                      "w": 160,
+                      "h": 20
+                    },
+                    "contentRef": "c46",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n77",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 880,
+                      "y": 576,
+                      "w": 160,
+                      "h": 16
+                    },
+                    "contentRef": "c47",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.4",
+                      "fontSize": "fontSize.2"
+                    }
+                  }
+                ],
+                "role": "listitem"
+              },
+              {
+                "id": "n78",
+                "type": "RECTANGLE",
+                "bbox": {
+                  "x": 1162,
+                  "y": 560,
+                  "w": 1,
+                  "h": 40
+                },
+                "children": [],
+                "tokenRefs": {
+                  "fill": "color.9"
+                }
+              },
+              {
+                "id": "n79",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 1220,
+                  "y": 554,
+                  "w": 260,
+                  "h": 52
+                },
+                "children": [
+                  {
+                    "id": "n80",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1220,
+                      "y": 554,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "contentRef": "c48",
+                    "children": [],
+                    "tokenRefs": {
+                      "fontSize": "fontSize.7"
+                    }
+                  },
+                  {
+                    "id": "n81",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1250,
+                      "y": 554,
+                      "w": 160,
+                      "h": 20
+                    },
+                    "contentRef": "c49",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n82",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1250,
+                      "y": 576,
+                      "w": 160,
+                      "h": 16
+                    },
+                    "contentRef": "c50",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.4",
+                      "fontSize": "fontSize.2"
+                    }
+                  }
+                ],
+                "role": "listitem"
+              }
+            ],
+            "role": "container",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n83",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 616,
+              "w": 1536,
+              "h": 130
+            },
+            "children": [
+              {
+                "id": "n84",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 630,
+                  "w": 1040,
+                  "h": 100
+                },
+                "children": [
+                  {
+                    "id": "n85",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 60,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c51",
+                    "children": []
+                  },
+                  {
+                    "id": "n86",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 48,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c52",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n87",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 160,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c53",
+                    "children": []
+                  },
+                  {
+                    "id": "n88",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 148,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c54",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n89",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 260,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c55",
+                    "children": []
+                  },
+                  {
+                    "id": "n90",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 248,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c56",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n91",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 360,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c57",
+                    "children": []
+                  },
+                  {
+                    "id": "n92",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 348,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c58",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n93",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 460,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c59",
+                    "children": []
+                  },
+                  {
+                    "id": "n94",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 448,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c60",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n95",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 560,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c61",
+                    "children": []
+                  },
+                  {
+                    "id": "n96",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 548,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c62",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n97",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 660,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c63",
+                    "children": []
+                  },
+                  {
+                    "id": "n98",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 648,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c64",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n99",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 760,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c65",
+                    "children": []
+                  },
+                  {
+                    "id": "n100",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 748,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c66",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n101",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 860,
+                      "y": 636,
+                      "w": 70,
+                      "h": 70
+                    },
+                    "contentRef": "c67",
+                    "children": []
+                  },
+                  {
+                    "id": "n102",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 848,
+                      "y": 714,
+                      "w": 94,
+                      "h": 18
+                    },
+                    "style": {
+                      "textAlign": "center"
+                    },
+                    "contentRef": "c68",
+                    "children": [],
+                    "role": "listitem",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.2",
+                      "fontSize": "fontSize.2"
+                    }
+                  }
+                ],
+                "role": "list"
+              },
+              {
+                "id": "n103",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 1080,
+                  "y": 626,
+                  "w": 200,
+                  "h": 120
+                },
+                "children": [
+                  {
+                    "id": "n104",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1096,
+                      "y": 636,
+                      "w": 80,
+                      "h": 20
+                    },
+                    "contentRef": "c69",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "color": "color.3",
+                      "fontSize": "fontSize.8"
+                    }
+                  },
+                  {
+                    "id": "n105",
+                    "type": "GROUP",
+                    "bbox": {
+                      "x": 1096,
+                      "y": 660,
+                      "w": 120,
+                      "h": 28
+                    },
+                    "children": [
+                      {
+                        "id": "n106",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 1096,
+                          "y": 660,
+                          "w": 28,
+                          "h": 28
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "n107",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1100,
+                          "y": 666,
+                          "w": 20,
+                          "h": 16
+                        },
+                        "contentRef": "c70",
+                        "children": [],
+                        "tokenRefs": {
+                          "color": "color.1",
+                          "fontSize": "fontSize.1"
+                        }
+                      },
+                      {
+                        "id": "n108",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1126,
+                          "y": 666,
+                          "w": 8,
+                          "h": 16
+                        },
+                        "contentRef": "c71",
+                        "children": [],
+                        "tokenRefs": {
+                          "color": "color.11",
+                          "fontSize": "fontSize.1"
+                        }
+                      },
+                      {
+                        "id": "n109",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 1134,
+                          "y": 660,
+                          "w": 28,
+                          "h": 28
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": "n110",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1138,
+                          "y": 666,
+                          "w": 20,
+                          "h": 16
+                        },
+                        "contentRef": "c72",
+                        "children": [],
+                        "tokenRefs": {
+                          "color": "color.1",
+                          "fontSize": "fontSize.1"
+                        }
+                      },
+                      {
+                        "id": "n111",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1164,
+                          "y": 666,
+                          "w": 8,
+                          "h": 16
+                        },
+                        "contentRef": "c73",
+                        "children": [],
+                        "tokenRefs": {
+                          "color": "color.11",
+                          "fontSize": "fontSize.1"
+                        }
+                      },
+                      {
+                        "id": "n112",
+                        "type": "RECTANGLE",
+                        "bbox": {
+                          "x": 1172,
+                          "y": 660,
+                          "w": 28,
+                          "h": 28
+                        },
+                        "children": [],
+                        "tokenRefs": {
+                          "fill": "color.9"
+                        }
+                      },
+                      {
+                        "id": "n113",
+                        "type": "TEXT",
+                        "bbox": {
+                          "x": 1176,
+                          "y": 666,
+                          "w": 20,
+                          "h": 16
+                        },
+                        "contentRef": "c74",
+                        "children": [],
+                        "tokenRefs": {
+                          "color": "color.1",
+                          "fill": "color.9",
+                          "fontSize": "fontSize.1"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n114",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 1210,
+                      "y": 630,
+                      "w": 60,
+                      "h": 90
+                    },
+                    "contentRef": "c75",
+                    "children": []
+                  },
+                  {
+                    "id": "n115",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1096,
+                      "y": 700,
+                      "w": 100,
+                      "h": 18
+                    },
+                    "contentRef": "c76",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n116",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1096,
+                      "y": 722,
+                      "w": 80,
+                      "h": 18
+                    },
+                    "contentRef": "c77",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.2"
+                    }
+                  }
+                ],
+                "role": "card"
+              },
+              {
+                "id": "n117",
+                "type": "FRAME",
+                "bbox": {
+                  "x": 1300,
+                  "y": 626,
+                  "w": 200,
+                  "h": 120
+                },
+                "children": [
+                  {
+                    "id": "n118",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1316,
+                      "y": 636,
+                      "w": 80,
+                      "h": 20
+                    },
+                    "contentRef": "c78",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "color": "color.3",
+                      "fill": "color.9",
+                      "fontSize": "fontSize.8"
+                    }
+                  },
+                  {
+                    "id": "n119",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1316,
+                      "y": 660,
+                      "w": 120,
+                      "h": 18
+                    },
+                    "contentRef": "c79",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n120",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 1390,
+                      "y": 634,
+                      "w": 100,
+                      "h": 100
+                    },
+                    "contentRef": "c80",
+                    "children": []
+                  },
+                  {
+                    "id": "n121",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1316,
+                      "y": 722,
+                      "w": 80,
+                      "h": 18
+                    },
+                    "contentRef": "c81",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.2"
+                    }
+                  }
+                ],
+                "role": "card"
+              }
+            ],
+            "role": "container",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          },
+          {
+            "id": "n122",
+            "type": "FRAME",
+            "bbox": {
+              "x": 0,
+              "y": 756,
+              "w": 1536,
+              "h": 268
+            },
+            "children": [
+              {
+                "id": "n123",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 770,
+                  "w": 400,
+                  "h": 36
+                },
+                "children": [
+                  {
+                    "id": "n124",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 40,
+                      "y": 770,
+                      "w": 80,
+                      "h": 28
+                    },
+                    "style": {
+                      "fontSize": 20
+                    },
+                    "contentRef": "c82",
+                    "children": [],
+                    "role": "heading",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3"
+                    }
+                  },
+                  {
+                    "id": "n125",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 774,
+                      "w": 60,
+                      "h": 22
+                    },
+                    "contentRef": "c83",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.3",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n126",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 150,
+                      "y": 796,
+                      "w": 60,
+                      "h": 3
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n127",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 230,
+                      "y": 774,
+                      "w": 60,
+                      "h": 22
+                    },
+                    "contentRef": "c84",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.3"
+                    }
+                  },
+                  {
+                    "id": "n128",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 310,
+                      "y": 774,
+                      "w": 60,
+                      "h": 22
+                    },
+                    "contentRef": "c85",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.3"
+                    }
+                  }
+                ],
+                "role": "nav"
+              },
+              {
+                "id": "n129",
+                "type": "TEXT",
+                "bbox": {
+                  "x": 1420,
+                  "y": 774,
+                  "w": 80,
+                  "h": 22
+                },
+                "contentRef": "c86",
+                "children": [],
+                "role": "link",
+                "tokenRefs": {
+                  "fill": "color.1",
+                  "color": "color.4",
+                  "fontSize": "fontSize.1"
+                }
+              },
+              {
+                "id": "n130",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 40,
+                  "y": 810,
+                  "w": 260,
+                  "h": 200
+                },
+                "children": [
+                  {
+                    "id": "n131",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 40,
+                      "y": 810,
+                      "w": 260,
+                      "h": 200
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n132",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 50,
+                      "y": 820,
+                      "w": 90,
+                      "h": 120
+                    },
+                    "contentRef": "c87",
+                    "children": []
+                  },
+                  {
+                    "id": "n133",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 822,
+                      "w": 140,
+                      "h": 18
+                    },
+                    "contentRef": "c88",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n134",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 844,
+                      "w": 130,
+                      "h": 16
+                    },
+                    "contentRef": "c89",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n135",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 868,
+                      "w": 100,
+                      "h": 22
+                    },
+                    "contentRef": "c90",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.6"
+                    }
+                  },
+                  {
+                    "id": "n136",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 892,
+                      "w": 90,
+                      "h": 16
+                    },
+                    "contentRef": "c91",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.10",
+                      "fontSize": "fontSize.2"
+                    }
+                  },
+                  {
+                    "id": "n137",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 150,
+                      "y": 912,
+                      "w": 80,
+                      "h": 16
+                    },
+                    "contentRef": "c92",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n138",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 276,
+                      "y": 820,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c93",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.7",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "card"
+              },
+              {
+                "id": "n139",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 320,
+                  "y": 810,
+                  "w": 260,
+                  "h": 200
+                },
+                "children": [
+                  {
+                    "id": "n140",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 320,
+                      "y": 810,
+                      "w": 260,
+                      "h": 200
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n141",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 322,
+                      "y": 810,
+                      "w": 120,
+                      "h": 140
+                    },
+                    "contentRef": "c94",
+                    "children": []
+                  },
+                  {
+                    "id": "n142",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 450,
+                      "y": 822,
+                      "w": 120,
+                      "h": 18
+                    },
+                    "contentRef": "c95",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n143",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 450,
+                      "y": 844,
+                      "w": 110,
+                      "h": 16
+                    },
+                    "contentRef": "c96",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n144",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 450,
+                      "y": 868,
+                      "w": 100,
+                      "h": 22
+                    },
+                    "contentRef": "c97",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.6"
+                    }
+                  },
+                  {
+                    "id": "n145",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 450,
+                      "y": 895,
+                      "w": 80,
+                      "h": 16
+                    },
+                    "contentRef": "c98",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n146",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 556,
+                      "y": 820,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c99",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.7",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "card"
+              },
+              {
+                "id": "n147",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 600,
+                  "y": 810,
+                  "w": 260,
+                  "h": 200
+                },
+                "children": [
+                  {
+                    "id": "n148",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 600,
+                      "y": 810,
+                      "w": 260,
+                      "h": 200
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n149",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 610,
+                      "y": 820,
+                      "w": 90,
+                      "h": 120
+                    },
+                    "contentRef": "c100",
+                    "children": []
+                  },
+                  {
+                    "id": "n150",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 710,
+                      "y": 822,
+                      "w": 130,
+                      "h": 18
+                    },
+                    "contentRef": "c101",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n151",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 710,
+                      "y": 844,
+                      "w": 120,
+                      "h": 16
+                    },
+                    "contentRef": "c102",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n152",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 710,
+                      "y": 868,
+                      "w": 100,
+                      "h": 22
+                    },
+                    "contentRef": "c103",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.6"
+                    }
+                  },
+                  {
+                    "id": "n153",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 710,
+                      "y": 895,
+                      "w": 80,
+                      "h": 16
+                    },
+                    "contentRef": "c104",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n154",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 836,
+                      "y": 820,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c105",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.7",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "card"
+              },
+              {
+                "id": "n155",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 880,
+                  "y": 810,
+                  "w": 260,
+                  "h": 200
+                },
+                "children": [
+                  {
+                    "id": "n156",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 880,
+                      "y": 810,
+                      "w": 260,
+                      "h": 200
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n157",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 886,
+                      "y": 820,
+                      "w": 80,
+                      "h": 130
+                    },
+                    "contentRef": "c106",
+                    "children": []
+                  },
+                  {
+                    "id": "n158",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 978,
+                      "y": 822,
+                      "w": 140,
+                      "h": 18
+                    },
+                    "contentRef": "c107",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n159",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 978,
+                      "y": 844,
+                      "w": 130,
+                      "h": 16
+                    },
+                    "contentRef": "c108",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n160",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 978,
+                      "y": 868,
+                      "w": 90,
+                      "h": 22
+                    },
+                    "contentRef": "c109",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.6"
+                    }
+                  },
+                  {
+                    "id": "n161",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 978,
+                      "y": 895,
+                      "w": 80,
+                      "h": 16
+                    },
+                    "contentRef": "c110",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n162",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1116,
+                      "y": 820,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c111",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.7",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "card"
+              },
+              {
+                "id": "n163",
+                "type": "GROUP",
+                "bbox": {
+                  "x": 1160,
+                  "y": 810,
+                  "w": 260,
+                  "h": 200
+                },
+                "children": [
+                  {
+                    "id": "n164",
+                    "type": "RECTANGLE",
+                    "bbox": {
+                      "x": 1160,
+                      "y": 810,
+                      "w": 260,
+                      "h": 200
+                    },
+                    "children": [],
+                    "tokenRefs": {
+                      "fill": "color.1"
+                    }
+                  },
+                  {
+                    "id": "n165",
+                    "type": "IMAGE",
+                    "bbox": {
+                      "x": 1162,
+                      "y": 810,
+                      "w": 120,
+                      "h": 150
+                    },
+                    "contentRef": "c112",
+                    "children": []
+                  },
+                  {
+                    "id": "n166",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1292,
+                      "y": 822,
+                      "w": 120,
+                      "h": 18
+                    },
+                    "contentRef": "c113",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.1",
+                      "fontWeight": "fontWeight.1"
+                    }
+                  },
+                  {
+                    "id": "n167",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1292,
+                      "y": 844,
+                      "w": 110,
+                      "h": 16
+                    },
+                    "contentRef": "c114",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.4",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n168",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1292,
+                      "y": 868,
+                      "w": 90,
+                      "h": 22
+                    },
+                    "contentRef": "c115",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.3",
+                      "fontSize": "fontSize.6"
+                    }
+                  },
+                  {
+                    "id": "n169",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1292,
+                      "y": 895,
+                      "w": 80,
+                      "h": 16
+                    },
+                    "contentRef": "c116",
+                    "children": [],
+                    "role": "text",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.5",
+                      "fontSize": "fontSize.4"
+                    }
+                  },
+                  {
+                    "id": "n170",
+                    "type": "TEXT",
+                    "bbox": {
+                      "x": 1396,
+                      "y": 820,
+                      "w": 20,
+                      "h": 20
+                    },
+                    "contentRef": "c117",
+                    "children": [],
+                    "role": "button",
+                    "tokenRefs": {
+                      "fill": "color.1",
+                      "color": "color.7",
+                      "fontSize": "fontSize.5"
+                    }
+                  }
+                ],
+                "role": "card"
+              }
+            ],
+            "role": "container",
+            "tokenRefs": {
+              "fill": "color.1"
+            }
+          }
+        ],
+        "role": "container"
+      }
+    }
+  }
+}
